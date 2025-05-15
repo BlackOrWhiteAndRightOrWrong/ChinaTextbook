@@ -18,7 +18,7 @@
 - [四年级下册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf)
 - [五年级上册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)
 - [五年级下册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf)
-- [六年级上册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)
+- [六年级上册](https://github .com/tapx世界/中国教科书/blob/master/% E5 % B0 % 8F % E5 % AD % A6/% E6 % 95% B0 % E5 % AD % A6/% E4 % BA % BA % E6 % 95% 99% E7 % 89% 88/% E4 % B9 % 89% E5 % 8A % A1 % E6 % 95% 99% E8 % 82% B2 % E6 % 95% 99% 99% E7 % A7 % 99%
 - [六年级下册](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E6%95%B0%E5%AD%A6%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf)
 
 
@@ -63,26 +63,17 @@
 ### 下载方式
 您可以通过以下链接下载 `mergePDFs.exe` 程序：
 
-[下载 mergePDFs.exe](.cache/mergePDFs.exe)
+[下载mergePDFs.exe](。cache/merge pdf . exe)
 
-[审计源代码](.cache/mergePDFs.go)
+[审计源代码](。cache/merge pdf . go)
 
 
 ### 文件和程序示例
-- mergePDFs.exe
-- 义务教育教科书 · 数学一年级上册.pdf.1
-- 义务教育教科书 · 数学一年级上册.pdf.2
+-mergePDFs.exe
+-义务教育教科书 数学一年级上册. pdf.1
+-义务教育教科书 数学一年级上册. pdf.2
 
 
 ## 重新下载
-- 如果您位于内地，并且网络不错，想重新下载，您可以使用 [tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) 项目（鼓励开源），进行重新下载。
+- 如果您位于内地，并且网络不错，想重新下载，您可以使用 [tchMaterial解析器](https://github.com/happycola233/tchMaterial-parser) 项目（鼓励开源），进行重新下载。
 - 如果您位于国外，和内地网络通信速度较慢，建议使用本存储库进行签出。
-
-
-
-## 支持我
-
-如果您觉得这个项目对您有帮助，您可以扫描以下二维码进行捐赠：
-<p align="left">
-  <img src=".cache/support-alipay.png" width="20%">
-</p>
